@@ -1,7 +1,9 @@
 pandas
 requests
 sqlalchemy
-psycopg2-binary
 dash
 plotly
 python-dotenv
+apscheduler
+dash-bootstrap-components
+nba_api
